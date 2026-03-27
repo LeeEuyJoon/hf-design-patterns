@@ -7,6 +7,7 @@
 | 1 | [Strategy Pattern (전략 패턴)](src/main/java/luti/strategy/strategy-pattern.md) | 알고리즘군을 캡슐화하고, 이를 사용할 주체가 composition으로 갖도록 하여 런타임에 교체 가능하게 만든다 |
 | 2 | [Observer Pattern (옵저버 패턴)](src/main/java/luti/observer/observer-pattern.md) | Subject의 상태 변화를 구독한 Observer들에게 자동으로 전파한다. 인터페이스를 통한 느슨한 결합으로 Subject와 Observer가 독립적으로 확장된다 |
 | 3 | [Decorator Pattern (데코레이터 패턴)](src/main/java/luti/decorator/decorator-pattern.md) | 객체를 감싸는 방식으로 기능을 동적으로 추가한다. 상속 없이 조합만으로 유연하게 확장하며, 기존 코드를 변경하지 않는다 (OCP) |
+| 4 | [Factory Pattern (팩토리 패턴)](src/main/java/luti/factory/factory-pattern.md) | 객체 생성 로직을 별도의 Factory 클래스로 캡슐화하여 클라이언트 코드와 객체 생성 로직을 분리한다. 인터페이스를 통해 객체를 반환하여 느슨한 결합을 유지한다 |
 
 <br>
 
