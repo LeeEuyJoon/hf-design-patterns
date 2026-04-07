@@ -9,6 +9,7 @@
 | 3 | [Decorator Pattern (데코레이터 패턴)](src/main/java/luti/decorator/decorator-pattern.md) | 객체를 감싸는 방식으로 기능을 동적으로 추가한다. 상속 없이 조합만으로 유연하게 확장하며, 기존 코드를 변경하지 않는다 (OCP) |
 | 4 | [Factory Pattern (팩토리 패턴)](src/main/java/luti/factory/factory-pattern.md) | 객체 생성 코드를 캡슐화한다. Factory Method는 서브클래스가 어떤 객체를 만들지 결정하고, Abstract Factory는 관련 객체들의 제품군 전체를 팩토리 객체로 교체한다 |
 | 5 | Singleton Pattern (싱글턴 패턴) | 클래스 인스턴스가 하나뿐임을 보장하고, 어디서든 그 인스턴스에 접근할 수 있는 전역 접근점을 제공한다 |
+| 6 | [Command Pattern (커맨드 패턴)](src/main/java/luti/command/command-pattern.md) | 요청을 객체로 캡슐화하여 요청을 보내는 쪽과 처리하는 쪽을 분리한다. |
 
 <br>
 
