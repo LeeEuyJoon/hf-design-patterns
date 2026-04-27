@@ -1,8 +1,6 @@
 package luti.command.remote;
 
-//
-// This is the invoker
-//
+
 public class RemoteControl {
 	Command[] onCommands;
 	Command[] offCommands;
