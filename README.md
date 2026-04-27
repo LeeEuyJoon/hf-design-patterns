@@ -11,6 +11,7 @@
 | 5 | Singleton Pattern (싱글턴 패턴) | 클래스 인스턴스가 하나뿐임을 보장하고, 어디서든 그 인스턴스에 접근할 수 있는 전역 접근점을 제공한다 |
 | 6 | [Command Pattern (커맨드 패턴)](src/main/java/luti/command/command-pattern.md) | 요청을 객체로 캡슐화하여 요청을 보내는 쪽과 처리하는 쪽을 분리한다. Undo, 람다 커맨드까지 단계별로 구현한다 |
 | 7 | [Adapter Pattern (어댑터 패턴)](src/main/java/luti/adapter/adapter-pattern.md) | 호환되지 않는 인터페이스를 클라이언트가 기대하는 인터페이스로 변환한다. 기존 코드 수정 없이 함께 동작할 수 없었던 클래스들을 연결한다 |
+| 8 | [Facade Pattern (퍼사드 패턴)](src/main/java/luti/facade/facade-pattern.md) | 복잡한 서브시스템을 단순한 인터페이스 하나로 감싼다. 클라이언트는 내부 구조를 몰라도 되고, 서브시스템 변경이 클라이언트에 미치는 영향을 최소화한다 |
 
 <br>
 
