@@ -12,6 +12,7 @@
 | 6 | [Command Pattern (커맨드 패턴)](src/main/java/luti/command/command-pattern.md) | 요청을 객체로 캡슐화하여 요청을 보내는 쪽과 처리하는 쪽을 분리한다. Undo, 람다 커맨드까지 단계별로 구현한다 |
 | 7 | [Adapter Pattern (어댑터 패턴)](src/main/java/luti/adapter/adapter-pattern.md) | 호환되지 않는 인터페이스를 클라이언트가 기대하는 인터페이스로 변환한다. 기존 코드 수정 없이 함께 동작할 수 없었던 클래스들을 연결한다 |
 | 8 | [Facade Pattern (퍼사드 패턴)](src/main/java/luti/facade/facade-pattern.md) | 복잡한 서브시스템을 단순한 인터페이스 하나로 감싼다. 클라이언트는 내부 구조를 몰라도 되고, 서브시스템 변경이 클라이언트에 미치는 영향을 최소화한다 |
+| 9 | [Template Method Pattern (템플릿 메서드 패턴)](src/main/java/luti/templatemethod/templatemethod-pattern.md) | 알고리즘의 골격을 상위 클래스에서 정의하고 세부 단계는 서브클래스가 채운다. Hook으로 서브클래스가 선택적으로 알고리즘 흐름에 개입할 수 있다 |
 
 <br>
 
