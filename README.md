@@ -14,6 +14,7 @@
 | 8 | [Facade Pattern (퍼사드 패턴)](src/main/java/luti/facade/facade-pattern.md) | 복잡한 서브시스템을 단순한 인터페이스 하나로 감싼다. 클라이언트는 내부 구조를 몰라도 되고, 서브시스템 변경이 클라이언트에 미치는 영향을 최소화한다 |
 | 9 | [Template Method Pattern (템플릿 메서드 패턴)](src/main/java/luti/templatemethod/templatemethod-pattern.md) | 알고리즘의 골격을 상위 클래스에서 정의하고 세부 단계는 서브클래스가 채운다. Hook으로 서브클래스가 선택적으로 알고리즘 흐름에 개입할 수 있다 |
 | 10 | [Iterator Pattern (반복자 패턴)](src/main/java/luti/iterator/iterator-pattern.md) | 컬렉션의 내부 자료구조를 노출하지 않고 동일한 인터페이스로 순회한다. 클라이언트는 배열인지 리스트인지 몰라도 되고, 새 컬렉션 추가 시 순회 코드를 수정할 필요가 없다 |
+| 11 | [Composite Pattern (컴포지트 패턴)](src/main/java/luti/composite/composite-pattern.md) | 개별 객체와 복합 객체를 동일한 인터페이스로 다룬다. 트리 구조로 객체를 구성하고, 클라이언트는 Leaf인지 Composite인지 구분하지 않아도 된다 |
 
 <br>
 
